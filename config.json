@@ -1,4 +1,5 @@
 {
+  "volume": 0.6,
   "thrust": 1500,
   "gravity": 950,
   "maxUp": 360,
@@ -13,5 +14,9 @@
   "maxAlive": 14,
   "startDelay": 1.2,
   "startScore": 0,
-  "pointsPerSec": 12
+  "pointsPerSec": 12,
+  "levelThreshold": 120,
+  "levelThresholdGrowth": 120,
+  "maxLevel": 8,
+  "speedRampPerLevel": 0.14
 }
